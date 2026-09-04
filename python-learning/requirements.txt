@@ -1,4 +1,0 @@
-requests
-keyboard
-python-weather
-pandas
